@@ -1,6 +1,35 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
+LearningWCFx
+LearningWCF.VS2005
+MathiasLabs
+/LearningWCF.zip
+/LearningWCFMedia.zip
+/LearningWCFVB.zip
+/LearningWCFVS2008.zip
 
-# mstest test results
-TestResults
+
+LearningWCF/Labs/*/CompletedLabs/*/*/bin/Debug/*
+LearningWCF/Labs/*/CompletedLabs/*/*/bin/Release/*
+LearningWCF/Labs/*/CompletedLabs/*/*/obj/Debug/*
+LearningWCF/Labs/*/CompletedLabs/*/*/obj/Release/*
+LearningWCF/Labs/*/CompletedLabs/*/_ReSharper.*
+
+/LearningWCF/Labs/*/*/*/bin/Debug/*
+/LearningWCF/Labs/*/*/*/bin/Release/*
+/LearningWCF/Labs/*/*/*/obj/Debug/*
+/LearningWCF/Labs/*/*/*/obj/Release/*
+/LearningWCF/Labs/*/*/_ReSharper.*
+
+LearningWCF/Labs/*/CompletedLabs/*/bin/Debug/*
+LearningWCF/Labs/*/CompletedLabs/*/bin/Release/*
+
+/*/*/*/bin/Debug/*
+/*/*/*/bin/Release/*
+/*/*/*/obj/Debug/*
+/*/*/*/obj/Release/*
+/*/*/*/obj/x86/Debug/*
+/*/*/*/obj/x86/Release/*
+/*/*/_ReSharper.*
+/*/*/*.suo
+
+
+/9780672331190_SourceCode.zip
