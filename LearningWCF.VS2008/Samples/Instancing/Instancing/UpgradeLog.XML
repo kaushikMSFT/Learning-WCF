@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Instancing">
+</Property><Property Name="Solution File" Value="D:\LearningWCFBook\LearningWCF\Samples\Instancing\Instancing\Instancing.sln">
+</Property><Property Name="Date" Value="Sunday, August 12, 2007">
+</Property><Property Name="Time" Value="22:26 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Counters" Source="Counters\Counters.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Counters" Source="Counters\Counters.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Host" Source="Host\Host.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Instancing.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Instancing.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Counters" Source="Counters\Counters.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

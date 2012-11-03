@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/"
+		Name="localhost"
+		NotifyPropertyChange="False"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8000/Service"
+			BindingConfiguration="BasicHttpBinding_IService"
+			Contract="Client.localhost.IService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

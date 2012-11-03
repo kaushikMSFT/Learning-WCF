@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="net.tcp://localhost:9000/SessionService"
+			BindingConfiguration="NetTcpBinding_ISessionService"
+			Contract="SessionClient.localhost.ISessionService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

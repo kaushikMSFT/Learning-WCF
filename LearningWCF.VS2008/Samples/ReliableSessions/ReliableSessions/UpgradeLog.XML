@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReliableSessions">
+</Property><Property Name="Solution File" Value="D:\LearningWCFBook\LearningWCF\Samples\ReliableSessions\ReliableSessions\ReliableSessions.sln">
+</Property><Property Name="Date" Value="Thursday, August 23, 2007">
+</Property><Property Name="Time" Value="9:44 AM">
+</Property></Properties><Event ErrorLevel="0" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Host" Source="Host\Host.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReliableSessions.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ReliableSessions.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WinClient" Source="WinClient\WinClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

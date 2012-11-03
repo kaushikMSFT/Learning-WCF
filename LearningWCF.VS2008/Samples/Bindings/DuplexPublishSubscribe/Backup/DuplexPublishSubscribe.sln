@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "Publisher\Publisher.csproj", "{97352366-32F3-4F81-9A8B-0D4C01C676AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subscriber", "Subscriber\Subscriber.csproj", "{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Release|.NET.ActiveCfg = Release|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{97352366-32F3-4F81-9A8B-0D4C01C676AF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FA6A1949-3739-4EE8-8DF6-81F6E006EC2D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

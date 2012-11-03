@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="net.tcp://localhost:9000/netTcpRM"
+			BindingConfiguration="NetTcpBinding_ICounterService"
+			Contract="WinClient.localhost.ICounterService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/wsHttpSecureRM"
+			BindingConfiguration="WSHttpBinding_ICounterService"
+			Contract="WinClient.localhost.ICounterService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/wsHttpRM"
+			BindingConfiguration="WSHttpBinding_ICounterService1"
+			Contract="WinClient.localhost.ICounterService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

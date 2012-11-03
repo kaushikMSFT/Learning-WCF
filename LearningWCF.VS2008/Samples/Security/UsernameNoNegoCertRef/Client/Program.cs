@@ -1,0 +1,37 @@
+// © 2007 Michele Leroux Bustamante. All rights reserved 
+// Book: Learning WCF, O'Reilly
+// Book Blog: www.thatindigogirl.com
+// Michele's Blog: www.dasblonde.net
+// IDesign: www.idesign.net
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Client
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            using (localhost.HelloIndigoServiceClient proxy = new Client.localhost.HelloIndigoServiceClient())
+            {
+                Console.WriteLine("Enter a valid Windows account...");
+                Console.WriteLine();
+
+                Console.Write("Username:");
+                proxy.ClientCredentials.UserName.UserName = Console.ReadLine();
+
+                Console.Write("Password:");
+                proxy.ClientCredentials.UserName.Password = Console.ReadLine();
+                
+                Console.WriteLine();
+                string s = proxy.HelloIndigo("Hello!");
+                Console.WriteLine(s);
+                Console.ReadLine();
+            }
+
+
+        }
+    }
+}

@@ -1,0 +1,1 @@
+<%@ ServiceHost Service="TokenIssuer.SecurityTokenService" %>

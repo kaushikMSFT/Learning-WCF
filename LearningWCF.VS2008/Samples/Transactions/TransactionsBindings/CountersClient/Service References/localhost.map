@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/CountersService"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="http://localhost:8000/CountersService/wsHttpTx"
+			BindingConfiguration="WSHttpBinding_ICountersService"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/CountersService/wsHttpTxRM"
+			BindingConfiguration="WSHttpBinding_ICountersService1"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="net.tcp://localhost:9000/CountersService/netTcpTx"
+			BindingConfiguration="NetTcpBinding_ICountersService"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="net.tcp://localhost:9000/CountersService/netTcpTxRM"
+			BindingConfiguration="NetTcpBinding_ICountersService1"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="net.pipe://localhost/CountersService/netPipeTx"
+			BindingConfiguration="NetNamedPipeBinding_ICountersService"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/CountersService/wsHttpCustomTx"
+			BindingConfiguration="CustomBinding_ICountersService"
+			Contract="CountersClient.localhost.ICountersService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

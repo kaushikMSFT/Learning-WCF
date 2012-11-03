@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SessionExpiry">
+</Property><Property Name="Solution File" Value="D:\LearningWCFBook\LearningWCF\Samples\Instancing\SessionExpiry\SessionExpiry.sln">
+</Property><Property Name="Date" Value="Sunday, August 12, 2007">
+</Property><Property Name="Time" Value="22:34 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Host" Source="Host\Host.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sessions" Source="Sessions\Sessions.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sessions" Source="Sessions\Sessions.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SessionClient" Source="SessionClient\SessionClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SessionClient" Source="SessionClient\SessionClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SessionExpiry.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SessionExpiry.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Host" Source="Host\Host.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Sessions" Source="Sessions\Sessions.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SessionClient" Source="SessionClient\SessionClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

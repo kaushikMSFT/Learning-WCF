@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{33E953EF-9194-424C-9B86-520A83431744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonClient", "SingletonClient\SingletonClient.csproj", "{3026691D-C1AE-4099-9813-0A2D64B4F282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{339CB9A3-A0D2-44A5-872E-9EF2660A1B3A}"
+EndProject
+Global
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E953EF-9194-424C-9B86-520A83431744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3026691D-C1AE-4099-9813-0A2D64B4F282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3026691D-C1AE-4099-9813-0A2D64B4F282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3026691D-C1AE-4099-9813-0A2D64B4F282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3026691D-C1AE-4099-9813-0A2D64B4F282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{339CB9A3-A0D2-44A5-872E-9EF2660A1B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{339CB9A3-A0D2-44A5-872E-9EF2660A1B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{339CB9A3-A0D2-44A5-872E-9EF2660A1B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{339CB9A3-A0D2-44A5-872E-9EF2660A1B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

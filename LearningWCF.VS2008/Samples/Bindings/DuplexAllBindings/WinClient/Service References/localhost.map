@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="net.tcp://localhost:9000/netTcp"
+			BindingConfiguration="NetTcpBinding_IHelloIndigoService"
+			Contract="WinClient.localhost.IHelloIndigoService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="net.pipe://localhost/netPipe"
+			BindingConfiguration="NetNamedPipeBinding_IHelloIndigoService"
+			Contract="WinClient.localhost.IHelloIndigoService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/wsDual"
+			BindingConfiguration="WSDualHttpBinding_IHelloIndigoService"
+			Contract="WinClient.localhost.IHelloIndigoService"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/customDual"
+			BindingConfiguration="CustomBinding_IHelloIndigoService"
+			Contract="WinClient.localhost.IHelloIndigoService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

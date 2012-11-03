@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HostOnMessageLoopMultithreaded">
+</Property><Property Name="Solution File" Value="D:\LearningWCFBook\LearningWCF\Samples\Hosting\HostOnMessageLoopMultithreaded\HostOnMessageLoopMultithreaded.sln">
+</Property><Property Name="Date" Value="Wednesday, August 15, 2007">
+</Property><Property Name="Time" Value="9:37 AM">
+</Property></Properties><Event ErrorLevel="0" Project="HelloIndigo" Source="HelloIndigo\HelloIndigo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="HelloIndigo" Source="HelloIndigo\HelloIndigo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsHost" Source="WindowsHost\WindowsHost.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WindowsHost" Source="WindowsHost\WindowsHost.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="HostOnMessageLoopMultithreaded.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HostOnMessageLoopMultithreaded.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HelloIndigo" Source="HelloIndigo\HelloIndigo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WindowsHost" Source="WindowsHost\WindowsHost.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

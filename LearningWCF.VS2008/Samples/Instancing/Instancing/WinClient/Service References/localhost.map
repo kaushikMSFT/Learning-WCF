@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="http://localhost:8000/PerCall"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="net.pipe://localhost/PerCall/CounterServiceNetPipe"
+			BindingConfiguration="NetNamedPipeBinding_ICounterServicePerCall"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="net.tcp://localhost:9000/PerCall/CounterServiceNetTcp"
+			BindingConfiguration="NetTcpBinding_ICounterServicePerCall"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/PerCall/CounterServiceBasicHttp"
+			BindingConfiguration="BasicHttpBinding_ICounterServicePerCall"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/PerCall/CounterServiceWSHttpNoSession"
+			BindingConfiguration="WSHttpBinding_ICounterServicePerCall"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/PerCall/CounterServiceWSHttpSecureSession"
+			BindingConfiguration="WSHttpBinding_ICounterServicePerCall1"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+		<EndPoint
+			Address="http://localhost:8000/PerCall/CounterServiceWSHttpReliableSecureSession"
+			BindingConfiguration="WSHttpBinding_ICounterServicePerCall2"
+			Contract="WinClient.localhost.ICounterServicePerCall"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>

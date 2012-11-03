@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsServiceHost_EventLog">
+</Property><Property Name="Solution File" Value="D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\WindowsServiceHost_EventLog.sln">
+</Property><Property Name="User Options File" Value="D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\WindowsServiceHost_EventLog.suo">
+</Property><Property Name="Date" Value="Monday, August 20, 2007">
+</Property><Property Name="Time" Value="16:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsServiceHost_EventLog.sln" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\WindowsServiceHost_EventLog.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsServiceHost_EventLog.suo" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\WindowsServiceHost_EventLog.suo">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project file successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Client.csproj">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj.user" Description="Project user file successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Client.csproj.user">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Form1.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Form1.Designer.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Program.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Program.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\serviceproxy.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\serviceproxy.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\app.config" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\app.config">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Settings.settings" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Form1.resx" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\Resources.resx" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Client\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Project file successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Messaging\Messaging.csproj">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\MessagingService.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Messaging\MessagingService.cs">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\Messaging\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.csproj" Description="Project file successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\MessagingServiceHost.csproj">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\MessagingServiceHost.cs">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.Designer.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\MessagingServiceHost.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHostInstaller.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\MessagingServiceHostInstaller.cs">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\Program.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\Program.cs">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\App.config" Description="File successfully backed up as D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\Backup\MessagingServiceHost\App.config">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsServiceHost_EventLog.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsServiceHost_EventLog.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Messaging" Source="Messaging\Messaging.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MessagingServiceHost" Source="MessagingServiceHost\MessagingServiceHost.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

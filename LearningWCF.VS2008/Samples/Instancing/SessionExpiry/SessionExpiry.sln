@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{33E953EF-9194-424C-9B86-520A83431744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sessions", "Sessions\Sessions.csproj", "{CA8234EC-7D71-4F99-B6D2-5EF5FD289BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionClient", "SessionClient\SessionClient.csproj", "{9A244DBE-3D4C-4C86-BCD3-C23E3A672DF0}"
+EndProject
+Global
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33E953EF-9194-424C-9B86-520A83431744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E953EF-9194-424C-9B86-520A83431744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA8234EC-7D71-4F99-B6D2-5EF5FD289BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8234EC-7D71-4F99-B6D2-5EF5FD289BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8234EC-7D71-4F99-B6D2-5EF5FD289BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8234EC-7D71-4F99-B6D2-5EF5FD289BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A244DBE-3D4C-4C86-BCD3-C23E3A672DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A244DBE-3D4C-4C86-BCD3-C23E3A672DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A244DBE-3D4C-4C86-BCD3-C23E3A672DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A244DBE-3D4C-4C86-BCD3-C23E3A672DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

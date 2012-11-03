@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceReference>
+	<ProxyGenerationParameters
+		ServiceReferenceUri="https://localhost/BasicHttpBinding_Secure_WebHost/service.svc"
+		Name="localhost"
+		NotifyPropertyChange="True"
+		UseObservableCollection="False">
+	</ProxyGenerationParameters>
+	<EndPoints>
+		<EndPoint
+			Address="https://localhost/BasicHttpBinding_Secure_WebHost/Service.svc"
+			BindingConfiguration="basicHttp"
+			Contract="LoginClient.localhost.IHelloIndigoService"
+			>
+		</EndPoint>
+	</EndPoints>
+</ServiceReference>
