@@ -1,0 +1,23 @@
+﻿Installing assembly 'D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe
+   logfile = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.InstallLog
+Rolling back assembly 'D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe
+   logfile = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.InstallLog
+Installing assembly 'D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe
+   logfile = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.InstallLog
+Installing service MessagingServiceHost_EventLog...
+Service MessagingServiceHost_EventLog has been successfully installed.
+Creating EventLog source MessagingServiceHost_EventLog in log Application...
+Committing assembly 'D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.exe
+   logfile = D:\LearningWCFBook\LearningWCF\Samples\Hosting\WindowsServiceHost_EventLog\MessagingServiceHost\bin\Debug\MessagingServiceHost.InstallLog
