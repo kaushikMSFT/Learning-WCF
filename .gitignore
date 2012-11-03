@@ -21,5 +21,5 @@ MathiasLabs/*/*/*/bin/Debug/*
 MathiasLabs/*/*/*/bin/Release/*
 MathiasLabs/*/*/*/obj/Debug/*
 MathiasLabs/*/*/*/obj/Release/*
-MathiasLabs/*/_ReSharper.*
+MathiasLabs/*/*/_ReSharper.*
 
